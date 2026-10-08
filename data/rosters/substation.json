@@ -1,0 +1,61 @@
+{
+  "teamId": "substation",
+  "teamName": "Substation",
+  "owner": "Nathan Kelly",
+  "asOf": "2026-09-30",
+  "faabLeft": 30,
+  "startingQB": "Jordan Love",
+  "roster": {
+    "QB": [
+      "Jordan Love",
+      "Brock Purdy"
+    ],
+    "RB": [
+      "Bhayshul Tuten",
+      "RJ Harvey",
+      "Emmett Johnson",
+      "Keaton Mitchell"
+    ],
+    "WR": [
+      "Drake London",
+      "Skyy Moore",
+      "Malik Nabers",
+      "Keenan Allen",
+      "Denzel Boston"
+    ],
+    "TE": [
+      "Tucker Kraft"
+    ],
+    "LB": [
+      "Carson Schwesinger",
+      "Jihaad Campbell",
+      "Tremaine Edmunds",
+      "Dre Greenlaw"
+    ],
+    "DL": [
+      "DeForest Buckner"
+    ],
+    "DB": [
+      "Nick Emmanwori",
+      "Kevin Winston",
+      "Christian Izien",
+      "Dante Trader",
+      "Brian Branch",
+      "DeShon Elliott"
+    ],
+    "IR": [
+      "Brian Branch",
+      "DeShon Elliott",
+      "Dre Greenlaw"
+    ]
+  },
+  "notes": "Sep 19 AM: +Trent McDuffie (\u2212Romeo Doubs); \u2212Avonte Maddox. Trade block: Tony Pollard, Bhayshul Tuten. FAAB $70. | Sep 23 clear: +Rashod Bateman (WR); +Skyy Moore (WR); +Keenan Allen (WR); -Trent McDuffie (DB); -Alec Pierce (WR) | Removed stale Antoine Winfield (on TTAB then traded to Eddies Sep 23). | Sep 23 FA: +Jalen Redmond (DL)/\u2212Jared Verse. | Sep 24: +Keaton Mitchell (\u2212Keenan Allen). | Fantasy check Sep 28: \u2212Antonio Johnson; \u2212Tony Pollard (if listed); +CJ Allen (LB via trade). FAAB $82. Sep 28 trade: +Denzel Boston / \u2212David Montgomery (vs Saltese). | Sep 30 W4 waivers/FA: +Christian Izien $17; +Dante Trader $9 (\u2212CJ Allen); +DeForest Buckner $13 (\u2212Jalen Redmond); +Keenan Allen $13 (\u2212Rashod Bateman). FAAB $30.",
+  "injuryFlags": [
+    "Brian Branch \u2014 Injured Reserve List - PUP-R - Achilles (IR slot)",
+    "DeShon Elliott \u2014 Injured Reserve List - IR-R - Undisclosed (IR slot)",
+    "Dre Greenlaw \u2014 Quadriceps - Questionable (IR slot)"
+  ],
+  "source": "Fantrax Sep 30 2026 ~9:20 AM PT post-waiver roster sync (all 14 teams, after Week 4 FAAB clear).",
+  "fantraxTeamId": "bbdlo6fkmsb3ulv5",
+  "updated": "2026-09-30"
+}
